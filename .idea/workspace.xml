@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e93ed63-ef94-468d-9138-fb6203e1d797" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExercismProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CarsAssemble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ElonsToyCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LanguageList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LogLevels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SqueakyClean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,12 +41,43 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/telman/IdeaProjects/Test_Project",
+    "last_opened_file_path": "/home/telman/IdeaProjects/ExercismProjects",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.SqueakyCleanTest">
+    <configuration name="CarsAssembleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CarsAssembleTest" />
+      <module name="ExercismProjects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogLevelsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LogLevelsTest" />
+      <module name="ExercismProjects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SqueakyCleanTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SqueakyCleanTest" />
+      <module name="ExercismProjects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SqueakyCleanTest" />
+        <item itemvalue="Application.LogLevelsTest" />
+        <item itemvalue="Application.CarsAssembleTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -56,6 +87,9 @@
       <option name="presentableId" value="Default" />
       <updated>1675357583895</updated>
       <workItem from="1675357585487" duration="4701000" />
+      <workItem from="1675766072904" duration="1855000" />
+      <workItem from="1675784205959" duration="4706000" />
+      <workItem from="1675797108764" duration="2328000" />
     </task>
     <servers />
   </component>
@@ -67,7 +101,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
